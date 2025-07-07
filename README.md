@@ -11,7 +11,6 @@
 ![ZiQingchuan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ziqingchuan&theme=dracula)
 
 ### Some projects
-
 - 🧠 [vocabverse](https://github.com/zhenghaoyang24/vocabverse)：完整的单词记忆 Web 应用。 / Complete vocabulary memorization web application.
 - ☑️ [you-todo](https://github.com/zhenghaoyang24/you-todo)：简洁易用的日程待办 Web 应用。 / A clean and user-friendly schedule and to-do web app.
 - 📱 [blueblue-words](https://github.com/zhenghaoyang24/blueblue-words)：简易记单词小程序。 / A simple vocabulary memorization mini-program.
