@@ -2,9 +2,9 @@
 
 ### GitHub Contributions
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 ![ZiQingchuan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ziqingchuan&theme=dracula)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### Top Languages
 
