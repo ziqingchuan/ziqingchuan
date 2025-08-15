@@ -15,6 +15,8 @@
 
 🖋️[素笔 Mark编辑器](https://try-catch.life/markdown-editor/) : 简易的Markdown编辑器，后续逐渐完善更多功能！
 
+🌐[Easy API](https://www.easyapi.top/) : 用于调试接口的工具，集成了讯飞星火Lite模型提供AI对话问答功能
+
 📖[软件质量管理复习网站](https://try-catch.life/SQM/) : 无需多言，学弟学妹尽情补充与丰富吧！
 
 📖[软件系统设计复习网站](https://try-catch.life/SSD/) : 无需多言，学弟学妹尽情补充与丰富吧！
