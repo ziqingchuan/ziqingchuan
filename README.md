@@ -13,7 +13,7 @@
 
 🧰[图片处理工具](https://try-catch.life/img-tools/) : 图片处理小工具，用于压缩图片、图片类型转换、背景色扣除与替换，后续会完善交互体验，增加新的功能！
 
-🖋️[素笔 Mark编辑器](https://try-catch.life/markdown-editor/) : 简易的Markdown编辑器，后续逐渐完善更多功能！
+🖋️[素笔 Mark编辑器](https://marklite.surge.sh/) : 简易的Markdown编辑器，后续逐渐完善更多功能！
 
 🌐[Easy API](https://www.easyapi.top/) : 用于调试接口的工具，集成了讯飞星火Lite模型提供AI对话问答功能
 
