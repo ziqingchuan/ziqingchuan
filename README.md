@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=30&duration=4500&pause=500&color=70A5FD&width=435&lines=欢迎来到我的个人空间！;下面是我的一些小作品，欢迎大家共创！)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=30&duration=7000&pause=200&color=70A5FD&width=435&lines=欢迎来到我的个人空间！;下面是我的一些小作品，欢迎大家共创！)](https://git.io/typing-svg)
 ### 我的作品
 
 🌏[码不停蹄博客](https://try-catch.life/) : 记录学习与反思，以及组装一些简单的小demo，欢迎大家来看！
