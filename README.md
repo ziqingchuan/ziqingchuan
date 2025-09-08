@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=30&duration=3500&pause=1000&color=70A5FD&width=435&lines=Hi+!+I'm+Zi+Qingchuan.%F0%9F%91%8F;You+can+call+me+小川.%F0%9F%98%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=30&duration=3500&pause=1000&color=70A5FD&width=435&lines=欢迎来到我的个人空间！%F0%9F%91%8F;下面是我自己的一些小作品，欢迎大家共创！)](https://git.io/typing-svg)
 ### 我的作品
 
 🌏[码不停蹄博客](https://try-catch.life/) : 记录学习与反思，以及组装一些简单的小demo，欢迎大家来看！
@@ -13,7 +13,7 @@
 
 🧰[图片处理工具](https://try-catch.life/img-tools/) : 图片处理小工具，用于压缩图片、图片类型转换、背景色扣除与替换，后续会完善交互体验，增加新的功能！
 
-🖋️[素笔 Mark编辑器](https://marklite.surge.sh/) : 简易的Markdown编辑器，后续逐渐完善更多功能！
+🖋️[素笔 Mark编辑器](http://marklite.cn/) : 简易的Markdown编辑器，后续逐渐完善更多功能！
 
 🌐[Easy API](https://www.easyapi.top/) : 用于调试接口的工具，集成了讯飞星火Lite模型提供AI对话问答功能
 
