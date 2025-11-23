@@ -4,11 +4,11 @@
 
 🌏[码不停蹄博客](https://try-catch.life/) : 记录学习与反思，以及组装一些简单的小demo，欢迎大家来看！
 
+📝[DailyUp](https://try-catch.life/DailyUp/) : 参加亚马逊云举办的 vibe coding 活动时做的日报周报小应用，便捷记录每日工作收获！
+
 🐵[黑神话悟空游戏问答助手](https://www.blackmonkey-assistant.cn): RAG应用，一站式解决关于《黑神话·悟空》游戏的全部问题！（服务器暂时没钱启动）
 
 📊[echarts学习网站](https://try-catch.life/echarts-demo/) : 用于学习各种Echarts图表的使用，持续更新中！
-
-🖥️[网站监控看板](https://try-catch.life/MyCharts/) : 自定义封装echarts组件库，实现灵活调用各种图表，欢迎大家补充组件！
 
 🖋️[素笔 Mark编辑器](http://marklite.cn/) : 上手超简单的Markdown编辑器，后续逐渐完善更多功能！
 
@@ -19,6 +19,8 @@
 🥰[emoji快速查找工具](https://try-catch.life/emoji-display/): 快速查找emoji的小工具，支持github几乎全部的emoji
 
 🎨[mini调色板](https://try-catch.life/colorful-board/) : 前端开发小工具，提供快速取色以及渐变色配色方案
+
+🖥️[网站监控看板](https://try-catch.life/MyCharts/) : 自定义封装echarts组件库，实现灵活调用各种图表，欢迎大家补充组件！
 
 🧰[图片处理工具](https://try-catch.life/img-tools/) : 图片处理小工具，用于压缩图片、图片类型转换、背景色扣除与替换，后续会完善交互体验，增加新的功能！
 
