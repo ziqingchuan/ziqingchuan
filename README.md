@@ -4,13 +4,15 @@
 
 🌏[码不停蹄博客](https://try-catch.life/) : 记录学习与反思，以及组装一些简单的小demo，欢迎大家来看！
 
+🖋️[素笔 Mark编辑器](http://marklite.cn/) : 上手超简单的Markdown编辑器，后续逐渐完善更多功能！
+
 📝[DailyUp](https://try-catch.life/DailyUp/) : 参加亚马逊云举办的 vibe coding 活动时做的日报周报小应用，便捷记录每日工作收获！
+
+🖼️[图片审核平台](https://try-catch.life/img-judger/) : 提取excel中的图片链接，调用工作流对批量的图片进行内容审查，赋能企业后台提效工作
 
 🐵[黑神话悟空游戏问答助手](https://www.blackmonkey-assistant.cn): RAG应用，一站式解决关于《黑神话·悟空》游戏的全部问题！（服务器暂时没钱启动）
 
 📊[echarts学习网站](https://try-catch.life/echarts-demo/) : 用于学习各种Echarts图表的使用，持续更新中！
-
-🖋️[素笔 Mark编辑器](http://marklite.cn/) : 上手超简单的Markdown编辑器，后续逐渐完善更多功能！
 
 🌐[Easy API](https://www.easyapi.top/) : 用于调试接口的工具，集成了讯飞星火Lite模型提供AI对话问答功能
 
