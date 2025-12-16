@@ -6,6 +6,8 @@
 
 🖋️[素笔 Mark编辑器](http://marklite.cn/) : 上手超简单的Markdown编辑器，后续逐渐完善更多功能！
 
+☁️[QCloud](https://try-catch.life/QCloud/) : 个人搭建的小云盘，用于存储个人资料！
+
 📝[DailyUp](https://try-catch.life/DailyUp/) : 参加亚马逊云举办的 vibe coding 活动时做的日报周报小应用，便捷记录每日工作收获！
 
 🖼️[图片审核平台](https://try-catch.life/img-judger/) : 提取excel中的图片链接，调用工作流对批量的图片进行内容审查，赋能企业后台提效工作
