@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=30&duration=7000&pause=1000&color=70A5FD&width=635&lines=欢迎来到我的个人空间！;下面是我的一些小作品，欢迎大家共创！)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=30&duration=5000&pause=1000&color=70A5FD&width=635&lines=欢迎来到我的个人空间！;下面是我的一些小作品，欢迎大家共创！)](https://git.io/typing-svg)
 
 ### 我的作品
 
